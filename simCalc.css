@@ -1,0 +1,54 @@
+h1{
+	color: #006699;
+    font-size:68px;
+}
+
+p{
+	font-size: 30px;
+}
+
+input{
+	width:500px;
+	font-size: 38px;
+}
+
+#displayTable{
+    font-size:30px;
+    margin: 0px auto 38px auto;
+
+}
+
+#tableID{
+	border: 1px solid;
+	border-radius: 3px;
+	margin: 0px auto;
+}
+
+#formID {
+
+}
+
+#mainFrame {
+	width:800px;
+	border: 1px solid;
+	border-radius:3px;
+	padding:10px 20px;
+	margin:0px auto;
+	background:#CFC;	
+}
+
+tr {
+    height: 60px;
+
+}
+
+td {
+    height:40px;
+    font-size:30px;
+}
+
+button{
+	width:250px;
+	height: 138px;
+	font-size: 80px;
+}
